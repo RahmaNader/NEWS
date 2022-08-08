@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NEWS</string>
+    <string name="news_image">News image</string>
+    <string name="news_headline">News headline</string>
+    <string name="author">Author</string>
+    <string name="date">01 Aug, 2022</string>
+</resources>
