@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Free News</string>
+    <string name="news_image">news_image</string>
+    <string name="headline">Headline</string>
+    <string name="description">Description</string>
+    <string name="date">date</string>
+</resources>
